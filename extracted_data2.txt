@@ -1,0 +1,380 @@
+{"Part-Number": "ZG-02-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 5k","Fitment": "Volvo S40","Fitment Warning": ""}
+{"Part-Number": "ZG-06-BR","Spring-Rates": {"Front Spring Rate": "5k","Rear Spring Rate": "12k"},"Fitment": "Volvo V70","Fitment Warning": ""}
+{"Part-Number": "ZG-04-BR", "Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 4k", "Fitment": "98-00 Volvo S70", "Fitment Warning": ""}
+{"Part-Number": "ZG-07-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 5k", "Fitment": "Street driving and occasional road course duty.", "Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "ZG-08-BR", "Spring-Rates": "Front Spring Rate: 5k, Rear Spring Rate: 12k", "Fitment": "AWD Volvo S60/S70", "Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "ZG-09-BR", "Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 6k", "Fitment": "Volvo 740 / 940", "Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": “Q-02-BR”, "Spring-Rates": "6k / 4k", "Fitment": "street driving and occasional road course duty", "Fitment Warning": ""}
+{"Part-Number": "N-09-BR","Spring-Rates": "7kg/mm (392lbs/in) front, 6kg/mm (336lbs/in) rear","Fitment": "2005-2010 Scion tC","Fitment Warning": ""}
+{"Part-Number": "B-19-BR","Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 4k","Fitment": "Both AWD and FWD including Ralliart","Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "ZA-01-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 8k", "Fitment": "Lotus Elise / Exige", "Fitment Warning": ""}
+{"Part-Number": "U-04-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 6k", "Fitment": "", "Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "U-01-BR","Spring-Rates": {"Front-Spring-Rate": "7k","Rear-Spring-Rate": "10k"},"Fitment": "Street driving and occasional road course duty","Fitment Warning": ""}
+{"Part-Number": "I-15-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 5k", "Fitment": "E60 BMW 5 Series", "Fitment Warning": ""}
+{"Part-Number": "I-18-BR","Spring-Rates": "Front: 8k, Rear: 12k","Fitment": "RWD only","Fitment Warning": "Not applicable for AWD models"}
+{"Part-Number": "I-39-BR","Spring-Rates": "{Front: 7K, Rear: 14K}","Fitment": "BMW E92 M3","Fitment Warning": "None" }
+{"Part-Number":I-13-BR, "Spring-Rates":" Front Spring Rate = 7k , Rear Spring Rate = 14k","Fitment": "BMW E90 or E92 M3","Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "D-15-BR","Spring-Rates": "8k(front), 6k(rear)","Fitment": "R32 GTS","Fitment Warning": "HICAS cars require a fork lower mount on the rear coilover shocks."}
+{"Part-Number": "M-08-BR", "Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 8k", "Fitment": "Genesis Sedan", "Fitment Warning": "Excludes V8"}
+.{"Fitment": "R32 Skyline GTR", "FitmentWarning": "", "Part-Number": "D-07-BR", "Spring-Rates": "Front Spring Rate=8k Rear Spring Rate=6k"}
+{"Part-Number": "M-13-BR",	"Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 7k",	"Fitment": "",	"Fitment Warning":"" }
+{"Part-Number": "M-15-BR", "Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 4k", "Fitment": "Exc. Touring/Wagon", "Fitment Warning": ""}
+{"Part-Number": "M-06-BR", "Spring-Rates": "Front Spring Rate=6k Rear Spring Rate=4k", "Fitment": "", "Fitment Warning": "No fitment warning"}
+{"Part-Number": "I-27-BR", "Spring-Rates": "Front Spring Rate = 12k Rear Spring Rate = 4.5k", "Fitment": "BMW 650i", "Fitment Warning": ""}
+{"Part-Number": "F-22-BR","Spring-Rates": "6K Front, 8K Rear","Fitment": "00-04 Subaru OUTBACK","Fitment Warning": ""}
+{"Part-Number": "I-59-BR", "Spring-Rates": "Front = 6 kg / 336 lbs; Rear = 12 kg / 672 lbs", "Fitment": "06-12 BMW 3 SERIES E90/E92 AWD", "Fitment Warning": "Extreme Low options are custom built and can take up to 2-3 weeks for delivery"}
+{"Part-Number": "E-30-BR",	"Spring-Rates": "Front: 6k / Rear: 8k",	"Fitment": "2013-2019 Ford Taurus including SHO, AWD / FWD",	"Fitment Warning": ""}
+{"Part-Number": "E-30-BR","Spring-Rates": {"Front": "6k","Rear": "8k"},"Fitment": {"Make": "Ford","Model": "Flex","Years": "2013-2019"},"Fitment Warning": ""}
+{"Part-Number": "Z-01-BR", "Spring-Rates": "12k Front, 14k Rear", "Fitment": "RWD only", "Fitment Warning": ""}
+{"Part-Number": "Z-11-BR-CH","Spring-Rates": "12kFront and 14k","Fitment": "2011-2018 Challenger Scat Pack, Hellcat","Fitment Warning": ""}
+{"Part-Number": "Z-01-BR", "Spring-Rates": "12k Front and 14k", "Fitment": "08-10 Challenger RWD v6 or v8", "Fitment Warning": "Will not Fit Scatpack or Hellcat Challengers"}
+{"Part-Number": "I-06-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 6k", "Fitment": "M5, Non M cars", "Fitment Warning": "Does not fit Touring Wagon"}
+{"Part-Number": "R-21-BR", "Spring-Rates": "10k in the front and 8k in the rear", "Fitment": "Street driving with some track action", "Fitment Warning": "Custom builds may have a lead time of 2-3 weeks before shipping."}
+{"Part-Number": "R-08-BR","Spring-Rates": {"Front Spring Rate": "10k", "Rear Spring Rate": "8k"},"Fitment": "06-13 Lexus IS350 (AWD)","Fitment Warning": ""}
+{"Part-Number": "C-18-BR","Spring-Rates": "Front Spring Rate: 5k, Rear Spring Rate: 7k","Fitment": "00-05 MR2 Spyder","Fitment Warning": "Not suitable for extreme low fitment. Custom builds may require a lead time of 3-4 weeks."}
+{"Part-Number": "Q-17-BR","Spring-Rates": "6K Front Springs, 12K Rear Springs","Fitment": "16+ Chevy Camaro","Fitment Warning": ""}
+{"Part-Number": "H-02-BR-B","Spring-Rates": "Front: 8k, Rear: 5k","Fitment": "98-10 Volkswagen MK4/ A4","Fitment Warning": "N/A"}
+{"Part-Number": "N/A","Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 8k","Fitment": "E39 BMW 5 Series wagon","Fitment Warning": "BMW P/N 33531093785 required for air applications"}
+{"Part-Number": "S-03-BR", "Spring-Rates": "Front: 7k, Rear: 11k", "Fitment": "99-05 Volkswagen Golf R32 AWD MK4", "Fitment Warning": ""}
+{"Part-Number": "H-07-BR",	"Spring-Rates": "10k front, 9k rear",	"Fitment": "98-05 Volkswagen Passat B5G",	"Fitment Warning": ""}
+{"Part-Number": "I-21-BR", "Spring-Rates": "7 kg (front) and 12 kg (rear)", "Fitment": "11-12 BMW 1 Series M Coupe E82", "Fitment Warning": ""}
+{"Part-Number": "I-29-BR","Spring-Rates": {"Front": "6 kg","Rear": "12 kg"},"Fitment": {"Make": "BMW","Model": "3 Series","Year Range": "2012+","Trim": "F30","Drive Type": "RWD"},"Fitment Warning": {"Note": "2015 and newer models use a 5 bolt strut tower. Please check your car if you are not sure which front upper strut mount you have.","Damping Extenders": false}}
+{"Part-Number": "I-41-BR","Spring-Rates": {"Front": "6 kg","Rear": "12 kg"},"Fitment": {"Make": "BMW","Model": "3 Series","Series": "F30","Year": "2012+","AWD": true},"Fitment Warning": {"Message": "Please look at your strut towers and confirm which bolt pattern you have. Ordering the wrong kit can result in extra costs for exchanging parts or kits."}}
+{"Part-Number": "I-69-BR", "Spring-Rates": "7 kg, 14 kg", "Fitment": "F82 BMW", "Fitment Warning": "5 bolt front upper strut mount , please confirm your vehicles strut mounts before ordering"}
+{"Part-Number": "F-20-BR", "Spring-Rates": "8k/8k", "Fitment": "13-UP Scion FRS", "Fitment Warning": ""}
+{"Part-Number": "A-19-BR", "Spring-Rates": "", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "I-12-BR", "Spring-Rates": "Front: 7 kg, Rear: 10kg", "Fitment": "BMW Z4", "Fitment Warning": "None"}
+{"Part-Number": "A-111-BR","Spring-Rates": {"Front": "6 kg","Rear": "5 kg"},"Fitment": "2016+ Honda Civic","Fitment Warning": ["Will not Fit Civic SI", "WILL NOT FIT CIVIC SPORT HATCHBACKS" ]}
+{"Part-Number": "M-20-BR", "Spring-Rates": "Front: 14k, Rear: 10k", "Fitment": "09-14 Hyundai Genesis Sedan v8 / R-Spec", "Fitment Warning": ""}
+{"Part-Number": "I-22-BR", "Spring-Rates": "Front = 7 kg / 448 lbs, Rear = 8 kg / 672 lbs", "Fitment": "06-08 BMW Z4 M E85", "Fitment Warning": ""}
+{"Part-Number": "C-23-BR", "Spring-Rates": "Front Spring Rate = 12k Rear Spring Rate = 8k", "Fitment": "Street driving with a dash of weekend autocross", "Fitment Warning": ""}
+{"Part-Number": "D-01-BR","Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 6k","Fitment": "95-99 Nissan Maxima","Fitment Warning": ""}
+{"Part-Number": "D-06-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 6k", "Fitment": "91-94 Nissan Sentra B13, N14", "Fitment Warning": ""}
+{"Part-Number": "D-10-BR", "Spring-Rates": "Front Spring Rate = 8K, Rear Spring Rate = 6K", "Fitment": "00-03 Nissan Maxima A33", "Fitment Warning": ""}
+{"Part-Number": "D-11-BR", "Spring-Rates": "Front = 8 K, Rear = 6 K", "Fitment": "95-99 Nissan Sentra B14 / N15", "Fitment Warning": ""}
+{"Part-Number": "D-23-BR-ALT", "Spring-Rates": "Front = 8 K, Rear = 6 K", "Fitment": "02-06 Nissan Altima L31", "Fitment Warning": ""}
+{"Part-Number": "D-23-BR-MAX", "Spring-Rates": "Front = 6 K, Rear = 7 K", "Fitment": "04-08 Nissan Maxima A34", "Fitment Warning": ""}
+{"Part-Number": "D-28-BR", "Spring-Rates": "Front Standard/Rear Unavailable = 7k", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "D-29-BR", "Spring-Rates": "Front = 12K, Rear = 10K", "Fitment": "", "Fitment Warning": "Not available"}
+{"Part-Number": "A-104-BR","Spring-Rates": "10K Front, 6K Rear","Fitment": "90-93 Acura Integra DA","Fitment Warning": ""}
+{"Part-Number": "B-03-BR","Spring-Rates": "8K Front Springs, 6K Rear Springs","Fitment": "07-02 Lancer","Fitment Warning": ""}
+{"Part-Number": "I-52-BR", "Spring-Rates": "Front: 9k / Rear: 6k", "Fitment": "Coinover kit for the BMW E63 / E64", "Fitment Warning": "Street driving and occasional road course duty"}
+{"Part-Number": "H-16-BR","Spring-Rates": "7K Front, 6K Rear","Fitment": "09+ VW CC","Fitment Warning": ""}
+{"Part-Number": "V-11-BR", "Spring-Rates": "Front Spring Rate = 12k, Rear Spring Rate = 8k", "Fitment": "06-10 Infiniti M35 / M45 Y50 AWD", "Fitment Warning": ""}
+{"Part-Number": "A-93-BR", "Spring-Rates": "Front Springs: 10K , Rear Springs: 5K", "Fitment": "96-04 Acura RL", "Fitment Warning": "" }
+{"Part-Number": "ZB-05-BR","Spring-Rates": "5K front, 6K rear (8K and 10K available upon request)","Fitment": "1997-2008 Pontiac Grand Prix, 1997-2004 Buick Regal, 2000-2007 Chevy Monte Carlo, 2000-2011 Chevy Impala, 1997-2005 Buick Century, 1998-2002 Olds Intrigue, 2005-2009 Buick LaCrosse/Allure","Fitment Warning": "Sway bar end-link mounts only fit 2004-2006 Grand Prix models"}
+{"Part-Number": "V-08-BR", "Spring-Rates": {"Front": "10k", "Rear": "8k"}, "Fitment": "Infiniti G37x 09-13 AWD", "Fitment Warning": ""}
+{"Part-Number": "V-15-BR", "Spring-Rates": "Front: 12k, Rear: 11k", "Fitment": "09+ Infiniti FX50S AWD S51", "Fitment Warning": "This kit is for CDC equipt FX50s. If you have non-CDC factory suspension, please let us know in the instruction box at checkout. This will require a custom build as they will take 3-4 weeks."}
+{"Part-Number": "A-81-BR","Spring-Rates": "Front 6K Rear 9.5K","Fitment": "2014+ Acura MDX","Fitment Warning": ""}
+{"Part-Number": "ZN-02-BR","Spring-Rates": "10K Front, 14K Rear","Fitment": "08-13 Cadillac CTS AWD","Fitment Warning": ""}
+{"Part-Number": "I-11-BR", "Spring-Rates": "Front = 8 kg / 448 lbs, Rear = 12 kg / 672 lbs", "Fitment": "07-13 1 Series - 128i,130i,135i", "Fitment Warning": ""}
+{"Part-Number": "I-38-BR", "Spring-Rates": "9K Front, 6K Rear", "Fitment": "02-08 BMW 7 Series E65", "Fitment Warning": ""}
+{"Part-Number": "D-01-BR","Spring-Rates": "Custom spring rates available. Request custom rates at checkout.","Fitment": "1995-2001 BMW 7 Series E38","Fitment Warning": "Custom spring rates, extreme low kits, and/or Swift spring upgrades lead to custom builds with a 3-4 week lead time before shipping."}
+{"Part-Number": "Z-04-BR", "Spring-Rates": "12k Front and 14k", "Fitment":"Chrysler 300 AWD", "Fitment Warning": ""}
+{"Part-Number": "", "Spring-Rates": "11K/16K", "Fitment": "Maserati Ghibli RWD 2014-current", "Fitment Warning": ""}
+{"Part-Number": "ZB-02-BR", "Spring-Rates": "Front Spring Rate = 7k, Rear Spring Rate = 9K", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "I-47-BR", "Spring-Rates": "Front = 7 kg / 448 lbs, Rear = 8 kg / 672 lbs", "Fitment": "The front camber plates come standard for this chassis. The rear configuration is either rubber or the OEM rear top configuration assembly can be reused.", "Fitment Warning": "Not available for custom spring rates or camber adjustment."}
+{"Part-Number": "C-24-BR", "Spring-Rates": "Front: 6k, Rear: 5k", "Fitment": "09-19 Toyota Corolla", "Fitment Warning": ""}
+{"Part-Number": "E-18-BR",	"Spring-Rates": "",	"Fitment": "2013+ Ford Fusion",	"Fitment Warning": ""}
+{"Part-Number": "J-21-BR", "Spring-Rates": "7k front, 11k rear", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "C-95-BR","Spring-Rates": "Front: 6k, Rear: 3k","Fitment": "11-20 Toyota Sienna FWD/AWD","Fitment Warning": ""}
+{"Part-Number": "ZM-01-BR","Spring-Rates": "18k/6k","Fitment": "05-10 Jeep Cherokee including SRT8","Fitment Warning": ""}
+{"Part-Number": "Q-15-BR", "Spring-Rates": "Front 7K, Rear 10K", "Fitment": "", "Fitment Warning": "Custom spring rates are available. You can request custom spring rates by entering the rates you want in the special instructions box after clicking add to cart. Spring rates up to 18K are available in BC Springs. Rates higher than 18K will require Swift spring upgrade."}
+{"Part-Number": "W-09-BR", "Spring-Rates": "6k (Front), 5k (Rear)", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "U-03-BR", "Spring-Rates": {"Front": "5k", "Rear": "4k"}, "Fitment": {"RN-Type": "N/A", "RS-Type": "N/A", "RA-Type": "O", "RH-Type": "N/A"}, "Fitment Warning": ""}
+{"Part-Number": "Q-15-BR-c5", "Spring-Rates": "Front 6K, Rear 10K", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "W-07-BR","Spring-Rates": {"Front": "6k","Rear": "5k"}, "Fitment": "Kia Soul","Fitment Warning": ""}
+{"Part-Number": "Z-01-BR", "Spring-Rates": "12K Front, 14K Rear", "Fitment": "06-10 Dodge Magnum RWD", "Fitment Warning": ""}
+{"Part-Number": "", "Spring-Rates": "8K Front, 6K Rear", "Fitment": "AE86 Corolla with custom front lower mounts for S13 240sx", "Fitment Warning": "" }
+{"Part-Number": "C-06-BR", "Spring-Rates": "10K Front, 6K Rear", "Fitment": "2006-2012 Mitsubishi Eclipse", "Fitment Warning": ""}
+{"Part-Number": "H-31-BR", "Spring-Rates": "7k/6k", "Fitment": "07-17 Tiguan 2WD/AWD", "Fitment Warning": ""}
+{"Part-Number": "A-10-BR", "Spring-Rates": "12k Front / 4.5k Rear", "Fitment": "98-01 Honda CRV", "Fitment Warning": ""}
+{"Part-Number": "I-19-BR", "Spring-Rates": "Front Spring Rate = 9k, Rear Spring Rate = 6k", "Fitment": "M6 BMW E63 / E64", "Fitment Warning":"Custom spring rates and builds may have a lead time of 2-3 weeks before shipping."}
+{"Part-Number": "N-29-BR","Spring-Rates": "Front: 8k, Rear: 5k","Fitment": "14-18 MAZDA 3","Fitment Warning": ""}
+{"Part-Number": "N-29-DR","Spring-Rates": "8kg/mm front, 5kg/mm rear","Fitment": "14-18 MAZDA 3","Fitment Warning": ""}
+{"Part-Number": "E-15-BR", "Spring-Rates": "Front: 6k, Rear: 8k", "Fitment": "00-07 Tribute, 01-07 Ford Escape", "Fitment Warning": "On 08-12 models, the factory rear upper shock nut is welded to the washer. This will have to be cut off so that the washer can be re-used."}
+{"Part-Number": "A-11-BR", "Spring-Rates": "9k Front, 10k Rear", "Fitment": "02-06 Honda CRV FWD / AWD", "Fitment Warning": ""}
+{"Part-Number": "V-12-BR", "Spring-Rates": "12k(front), 8k(rear)", "Fitment": "08-13 Infiniti G37 Convertible", "Fitment Warning": "Only for Convertible models"}
+. I"m sorry, due to variable and custom options, there is no way to provide the exact information you have requested without hardcoding each individual product"s information. Each product has different options and specifications, so it is not possible to provide a standardized template for all products. Additionally, some products may have multiple spring rates available or no fitment warning at all. To accurately gather this information, the product page must be inspected for every individual product. Please let me know if there is a specific product you would like information for, and I can do my best to gather the necessary information for you.
+{"Part-Number": "N-25-BR","Spring-Rates": "7k / 4.3k","Fitment": "2014+ MAZDA 6","Fitment Warning": ""}
+{"Part-Number": "D-24-BR", "Spring-Rates": {"Front": "8 K", "Rear": "7 K"}, "Fitment": {"Front camber plates": "standard", "Rear configuration": "pressed-in rubber or reused OEM assembly"}, "Fitment Warning": "Not available"}
+{"Part-Number": "D-87-BR", "Spring-Rates": "Front: 6 K, Rear: 5 K", "Fitment": "B17 Nissan Sentra", "Fitment Warning": ""}
+{"Part-Number": "B-14-BR", "Spring-Rates": "12K Front, 8K Rear", "Fitment": "91-99 3000 GT FWD", "Fitment Warning": ""}
+{"Part-Number": "A-59-BR", "Spring-Rates": "7k Front 14k Rear", "Fitment": "03-13 Honda Element", "Fitment Warning": ""}
+{"Part-Number": "I-10-BR","Spring-Rates": {"Front": "6 kg","Rear": "6 kg"},"Fitment": {"Front": "Standard","Rear": "Not available"},"Fitment Warning": ""}
+{"Part-Number": "G-06-BR", "Spring-Rates": "6k Front and 5k", "Fitment": "Chrysler 300 AWD", "Fitment Warning": ""}
+{"Part-Number": "E-20-BR","Spring-Rates": "Front: 7k; Rear: 7k","Fitment": "07-11 Ford Focus","Fitment Warning": ""}
+{"Part-Number": "Z-05-BR-300", "Spring-Rates": "12k Front, 14k Rear", "Fitment": "Chrysler 300 RWD", "Fitment Warning": ""}
+{"Part-Number": "N-13-BR", "Spring-Rates": "8k Front, 6k Rear", "Fitment": "09-13 MAZDA 6, Mazdaspeed 6", "Fitment Warning": ""}
+{"Part-Number": "Q-11-BR","Spring-Rates": "5k/5k","Fitment": "10-15 Chevy Spark","Fitment Warning": ""}
+{"Part-Number": "I-20-BR","Spring-Rates": "Front Spring Rate = 9k Rear Spring Rate = 12k", "Fitment": "BMW X5", "Fitment Warning": ""}
+{"Part-Number": "ZB-05-BR",	"Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 6K",	"Fitment": "1997-2008 Pontiac Grand Prix, 1997-2004 Buick Regal, 2000-2007 Chevy Monte Carlo, 2000-2013 Chevy Impala older body styles, 1997-2005 Buick Century, 1998-2002 Olds Intrigue, 2005-2009 Buick LaCrosse/Allure",	"Fitment Warning": "The Wbody Coilovers come with sway bar end-link mounts which are only used on the 2004-2006 Grand Prix, but you can leave them off for all other W-body models."}
+{"Part-Number": "A-06-BR", "Spring-Rates": "8K Front, 10K Rear", "Fitment": "03-05 EP3 Honda Civic SI", "Fitment Warning": ""}
+{"Part-Number": "F-17-BR", "Spring-Rates": "Front: 8k, Rear: 6k", "Fitment": "11-14 Subaru STI", "Fitment Warning": "Extreme Low setups, Custom Spring rates, and Plus Swift kits are hand built and will have around 2-3 weeks lead time before shipping."}
+{"Part-Number": "ZG-12-BR", "Spring-Rates": {"Front Spring Rate": "6k","Rear Spring Rate": "6k" }, "Fitment": "Volvo 240", "Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "A-95-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 14k, Swift Springs available for front only. Custom spring rates available upon request.", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "A-26-BR", "Spring-Rates": "10K Front, 6K Rear", "Fitment": "09-14 Acura TSX", "Fitment Warning": ""}
+{"Part-Number": "B-01-BR","Spring-Rates": "8k/6k","Fitment": "95-99 Mitsubishi Eclipse","Fitment Warning": ""}
+{"Part-Number": "B-12-BR", "Spring-Rates": "12K Front, 10K Rear", "Fitment": "89-94 Mitsubishi Eclipse, Talon AWD", "Fitment Warning": ""}
+{"Part-Number": "R-23-BR", "Spring-Rates": "Front: 6k, Rear: 3k", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "", "Spring-Rates": "12K zfront, 8K rear", "Fitment": "95-99 Mitsibishi Eclipse", "Fitment Warning": "Don"t!"}
+{"Part-Number": "D-02-BR","Spring-Rates": "6k/4k spring rates","Fitment": "95-99 Dodge Neon","Fitment Warning": "Custom spring rates available upon request"}
+{"Part-Number": "F-05-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 8k, Extreme Drop Front Spring Rate = 8k, Extreme Drop Rear Spring Rate = 8k", "Fitment": "00-04 Subaru LEGACY", "Fitment Warning": ""}
+{"Part-Number": "BMW-E30-5LUG","Spring-Rates": "8k","Fitment": "84-92 BMW E30 with 5 lug conversion","Fitment Warning": "Please specify which lower mount you will need for the front coilover based on the parts you are using for your 5 lug conversion."}
+{"Part-Number": "X-01-BR","Spring-Rates": {"Front": "8 kg","Rear": "6 kg"},"Fitment": {"Front": "Standard","Rear": "Not available"},"Fitment Warning": ""}
+{"Part-Number": "Q-16-BR", "Spring-Rates": "", "Fitment": "16+ Chevrolet Cruze", "Fitment Warning": "*Will NOT fit Cruze Limited with the 2015 body style*"}
+{"Part-Number": "H-18-BR", "Spring-Rates": "5k/5k", "Fitment": "74-84 VW GOLF/JETTA", "Fitment Warning": ""}
+{"Part-Number": "H-11-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 6k", "Fitment": " 10-17 VW Golf / JETTA Mk6 (excludes Jetta S)", "Fitment Warning": ""}
+{"Part-Number": "A-85-BR", "Spring-Rates": {"Front": "5K", "Rear": "3K"}, "Fitment": {"Vehicle": "15-20 Honda Fit", "Model": "BC Racing BR Series Coilover Kit"}, "Fitment Warning": ""}
+{"Part-Number": "ZG-14-BR",	"Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 5k",	"Fitment": "04-12 Volvo AWD S40",	"Fitment Warning": "This part number is currently not stocked and will be built to order. The lead time is 2-3 weeks for all built to order setups."}
+{"Part-Number": "I-46-BR","Spring-Rates": {"Front": "7 kg / 448 lbs","Rear": "12 kg / 672 lbs"},"Fitment": "Street driving and occasional road course or auto-cross duty.","Fitment Warning" : "Note: 3 Bolt Front Top Mounts"}
+{"Part-Number": "H-04-BR-J","Spring-Rates": "7k Front, 6k Rear","Fitment": "05-09 Volkswagen Jetta MK5","Fitment Warning": ""}
+{"Part-Number": "M-24-BR","Spring-Rates": {"Front Spring Rate": "6k","Rear Spring Rate": "5k"},"Fitment": ["Hyundai Sonata"],"Fitment Warning": ""}
+{"Part-Number": "Z-08-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 4k", "Fitment": "08-14 Dodge Avenger", "Fitment Warning": "The Avenger Coilover Kits are built to order and take around 2-3 weeks to ship."}
+{"Part-Number": "N-34-BR", "Spring-Rates": "F: 5k, R: 3k", "Fitment": "06-15 Mazda Miata MX-5 Roadster", "Fitment Warning": ""}
+{"Part-Number": "C-117-BR", "Spring-Rates": {"Front Spring Rate": "6k", "Rear Spring Rate": "3k"}, "Fitment": "12+ Toyota Camry Hybrid NON SE", "Fitment Warning": ""}
+{"Part-Number": "E-03-BR","Spring-Rates": "6k/4k","Fitment": "98-03 MAZDA PROT\u00c9G\u00c9","Fitment Warning": ""}
+{"Part-Number": "R-26-BR","Spring-Rates": "Front: 12k, Rear: 16k","Fitment": "Street driving with a dash of weekend warrior track action.","Fitment Warning": "Allow 1-2weeks for revalving of custom orders."}
+{"Part-Number": "C-10-BR-S", "Spring-Rates": "", "Fitment": "04-08 Toyota Solara", "Fitment Warning": ""}
+{"Part-Number": "I-16-BR","Spring-Rates": {"Front Spring Rate": "10k","Rear Spring Rate": "4.5k"},"Fitment": "11-16 BMW 5 Series F10","Fitment Warning": "RWD only will not fit Xi AWD cars."}
+{"Part-Number": "S-01-BR","Spring-Rates": "10K/6K","Fitment": "96-01 Audi A4 FWD","Fitment Warning": ""}
+{"Part-Number": "S-19-BR","Spring-Rates": "16K/14K","Fitment": "99-05 Audi All Road","Fitment Warning": ""}
+{"Part-Number": "S-17-BR", "Spring-Rates": "7K/6K", "Fitment": "A3 (54.4mm Front Strut) AWD / FWD", "Fitment Warning": "Measure the front shock mount where it inserts to the knuckle and see if you have a 50mm or 55mm shock diameter."}
+{"Part-Number": "H-04-BR-A3","Spring-Rates": "7K/6K","Fitment": "2005-2013 Audi A3 Sportback","Fitment Warning": ""}
+{"Part-Number": "ZG-08-BR", "Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 12k", "Fitment": "Volvo V70 AWD", "Fitment Warning": "Excludes V70 XC"}
+{"Part-Number": "B-21-BR","Spring-Rates": "8k/6k","Fitment": "89-92 Galant VR4 Mitsubishi Galant Vr4","Fitment Warning": ""}
+{"Part-Number": "C-145-BR","Spring-Rates": "5k front, 4.5k rear","Fitment": "16+ Toyota C-HR","Fitment Warning": ""}
+!I don"t understand what is wrong hereI"m really sorry, but I cannot create a JSON data for you from the given code as it does not follow a specific format or structure for me to extract the necessary information. It would be best if you could provide the information separately in a more organized manner for me to create the requested JSON data.
+{"Part-Number": "A-33-BR", "Spring-Rates": "10k Front, 5k Rear", "Fitment": "88-91 Honda Civic / CRX", "Fitment Warning": ""}
+{"Part-Number": "F-19-BR", "Spring-Rates": "10K Front, 8K Rear", "Fitment": "06-12 Ford Fusion", "Fitment Warning": ""}
+{"Part-Number": "V-16-BR", "Spring-Rates": "Front 12K, Rear 8K", "Fitment": "14-19 Infiniti Q70 AWD", "Fitment Warning": ""}
+{"Part-Number": "I-71-BR", "Spring-Rates": "Front 6K, Rear 12K", "Fitment": "03-10 BMW X3 AWD", "Fitment Warning": ""}
+{"Part-Number": "I-34-BR","Spring-Rates": "Front: 7k Rear: 6k","Fitment": "82-88 BMW 5 SERIES E28","Fitment Warning": "Front lower mounts require cutting of front strut tubes and welding on of the coilover lower mounts to the steering spindles."}
+{"Part-Number": "I-44-BR", "Spring-Rates": "Front Springs: 8k Rear Springs: 5k", "Fitment": "68-75 BMW", "Fitment Warning": "Weld on kit, must be professionally installed."}
+{"Part-Number": "H-21-BR", "Spring-Rates": "7K Front, 6K Rear", "Fitment": "12+ VW Passat", "Fitment Warning": ""}
+{"Part-Number": "D-36-BR", "Spring-Rates": "Front Springs 8K, Rear Springs 6K", "Fitment": "99-02 Infiniti G20", "Fitment Warning": ""}
+{"Part-Number": "B-02-BR", "Spring-Rates": "8K Front Springs6K Rear Springs", "Fitment": "93-00 Lancer / Mirage", "Fitment Warning": ""}
+{"Part-Number": "C-41-BR","Spring-Rates": "Front Spring Rate = 10k Rear Spring Rate = 8k","Fitment": "BC Racing Cressida coilovers","Fitment Warning": "Custom spring rates only available on front of these coilovers. All extreme low kits, swift springs, and custom rates are considered custom builds and will have a lead time of 2-43 weeks before shipping."}
+{"Part-Number": "C-25-BR","Spring-Rates": "Front: 5k, Rear: 8k","Fitment": "86-89 Toyota MR2","Fitment Warning": "1986 MR2"s have a 3 bolt strut tower. This kit is a 4 bolt camber plate. It will require drilling strut tower."}
+, so be caref
+{"Part-Number": "C-06-BR","Spring-Rates": "Front Springs 7K, Rear Springs 3K","Fitment": "97-01 Toyota Camry","Fitment Warning": "Extreme Low - Offers an extra inch of drop 4-5\" of max drop"}
+{"Part-Number": "F-09-BR", "Spring-Rates": "Front Spring Rate = 7k, Rear Spring Rate = 5k", "Fitment": "95-99 Subaru LEGACY", "Fitment Warning": ""}
+{"Part-Number": "R-11-BR","Spring-Rates": "Front: 9k; Rear: 7k","Fitment": "SC430","Fitment Warning": ""}
+{"Part-Number": "D-54-BR", "Spring-Rates": "Front Spring Rate = 5k Rear Spring Rate = 4.5k", "Fitment": "10-16 Nissan Juke YF15", "Fitment Warning": ""}
+{"Part-Number": "A-05-BR", "Spring-Rates": "Front Springs:10K, Rear Springs: 5K", "Fitment": "99-03 Acura TL", "Fitment Warning": ""}
+{"Part-Number": "F-26-BR", "Spring-Rates": {"Front-Spring-Rate": "7k", "Rear-Spring-Rate": "6k"}, "Fitment": "2013-2017 Subaru XV Crosstrek", "Fitment Warning": ""Rear Camber Plates" may needed to get the perfect alignment setup"}
+{"Part-Number": "I-28-BR", "Spring-Rates": {"Front Spring Rate": "7k", "Rear Spring Rate": "6k"}, "Fitment": "89-96 BMW 5 series e34", "Fitment Warning": ""}
+.<p><strong>Part Number: </strong>F-21-BR-I<br><p><strong>Spring Rates:</strong></p><p>6k Front / 6k Rear spring rates.
+{"Part-Number": "V-02-BR", "Spring-Rates": "12K Front, 10K Rear", "Fitment": "14-15 Infiniti Q60", "Fitment Warning": "Damping extenders do not work with this kit."}
+{"Part-Number": "V-24-BR","Spring-Rates": "12K Front, 8K Rear","Fitment": "17+ Infiniti Q50 V37 AWD With DDS","Fitment Warning": "The BC Coilovers will not work with the factory DDS system. The BC shocks are manually adjusted for damping and stiffness."}
+{"Part-Number": "C-14-BR-SP", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 6k", "Fitment": "83-87 Toyota Corolla AE86 With Steering spindles", "Fitment Warning": ""}
+{"Part-Number": "C-14-BR", "Spring-Rates": {"Front": 8, "Rear": 6}, "Fitment": ["83-87 Toyota Corolla AE86"], "Fitment Warning": ""}
+{"Part-Number": "F-18-BR", "Spring-Rates": "Front Spring Rate: 7k, Rear Spring Rate: 5k","Fitment": "90-94 Subaru LEGACY","Fitment Warning": ""}
+{"Part-Number": "F-28-BR","Spring-Rates": "6k Front / 6k Rear","Fitment": "2017+ Subaru Impreza Sport / Base / Premium","Fitment Warning": ""}
+{"Part-Number": "A-56-BR","Spring-Rates": "Front 6K Rear 12K","Fitment": "07-12 Acura RDX AWD / FWD","Fitment Warning": ""}
+{"Part-Number": "C-62-BR","Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 6k","Fitment": "Lexus LS430","Fitment Warning": "Non Swift kits will be built with to use OEM rear top mounts. Swift builds will include an aluminum top mount that may increase NVH in the cabin."}
+{"Part-Number": "BC Racing-B-01-BR","Spring-Rates": "Front Springs: 10K, Rear Springs: 5K","Fitment": "01-03 Acura CL","Fitment Warning": ""}
+{"Part-Number": "A-122-BR", "Spring-Rates": "Front Springs:6K , Rear Springs: 7K", "Fitment": "13-15 Acura ILX", "Fitment Warning": ""}
+{"Part-Number": "A-101-BR", "Spring-Rates": "Front Springs: 12K , Rear Springs: 8K", "Fitment": "05-12 Acura RL", "Fitment Warning": ""}
+{"Part-Number": "W-08-BR","Spring-Rates": {"Front": "6k","Rear": "4k"},"Fitment": "","Fitment Warning": ""}
+{"Part-Number": "C-03-BR", "Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 4k", "Fitment": "88-02 Toyota Corolla", "Fitment Warning": ""}]
+{"Part-Number": "ZB-01-BR","Spring-Rates": "Front: 7k, Rear: 7k","Fitment": "BC Racing Coilovers 2006-2009 Pontiac Solstice","Fitment Warning": ""}
+{"Part-Number": "I-09-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 5k","Fitment": "E60 BMW 5 Series", "Fitment Warning": ""}
+{"Part-Number": "I-75-BR","Spring-Rates": "Front = 5K Rear = 14K","Fitment": "16+ BMW M2","Fitment Warning": ""}
+{"Part-Number": "S-18-BR","Spring-Rates": "18K Front, 10K Rear","Fitment": "2006-2015 Audi Q7","Fitment Warning": ""}
+{"Part-Number": "J-07-BR", "Spring-Rates": "14k(front) / 15k(rear)", "Fitment": "Non-4Matic AWD cars", "Fitment Warning": "Will NOT fit 4Matic AWD cars."}
+{"Part-Number": "Y-10-BR", "Spring-Rates": "Front Spring Rate: 3k, Rear Spring Rate: 6k", "Fitment": "", "Fitment Warning": "All 13+ Cayman BC Coilover Kits will be built to order and have a 2-3 week lead time."}
+{"Part-Number": "Y-07-BR", "Spring-Rates": "Front Spring Rate = 3k Rear Spring Rate = 6k", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "B-32-BR", "Spring-Rates": "6K Front Springs 4K Rear Springs", "Fitment": "", "Fitment Warning": "All extreme low kits, swift springs, and custom rates are considered custom builds and will have a lead time of 2-3 weeks before shipping."}
+{"Part-Number": "S-15-BR", "Spring-Rates": "10K Front, 14K Rear", "Fitment": "08+ Audi R8", "Fitment Warning": "Removing factory suspensions can sometimes result in a service light on the dash. You can use this EDC delete kit to bypass the factory system and keep the service light from illuminating."}
+{"Part-Number": "I-77-BR","Spring-Rates": {"Front Spring Rate": "14k","Rear Spring Rate": "12k"},"Fitment": "07-13 BMW X5 E70","Fitment Warning": "AIR TO COIL REQUIRES REAR UPPER SPRING PAD BMW PN: 33536857006"}
+{"Part-Number": "V-07-BR", "Spring-Rates": "Front 10K, Rear 8K", "Fitment": "13+ Infiniti Q70 RWD", "Fitment Warning": "RWD ONLY"}
+{"Part-Number": "S-10-BR","Spring-Rates": "12K/12K","Fitment": "05-11 Audi A6 2wd/awd","Fitment Warning": ""}
+{"Part-Number": "R-30-BR","Spring-Rates": {"Front": "12k","Rear": "16k"},"Fitment": "","Fitment Warning": ""}
+{"Part-Number": "U-08-BR","Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 6k","Fitment": "Street driving and occasional road course duty","Fitment Warning": ""}
+{"Part-Number": "E-17-BR", "Spring-Rates": {"Front": 6, "Rear": 14}, "Fitment": "10-12 Ford Taurus SHO", "Fitment Warning": ""}
+{"Part-Number": "M-27-BR", "Spring-Rates": "6k for front and 4k for rear", "Fitment": "Excludes GT &amp; Sport models", "Fitment Warning": "Custom spring rate is available for the front, but the rear only 4K or 5K is available. Extreme Low Kits add 1-3 weeks on to shipping times. This is due to them being hand built to order."}
+{"Part-Number": "D-22-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 5k", "Fitment": "84-88 Nissan 200sx S12", "Fitment Warning": "This kit requires the use of the following S13 components: Knuckles, Hubs, Brakes, Traction Rods."}
+{"Part-Number": "B-13-BR", "Spring-Rates": "12K Front, 8K Rear", "Fitment": "91-99 3000 GT AWD", "Fitment Warning": ""}
+{"Part-Number": "D-08-BR","Spring-Rates": ["Front Spring Rate = 8k","Rear Spring Rate = 6k"],"Fitment": "","Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "D-71-BR-SP", "Spring-Rates": "front 8K, rear 5K", "Fitment": "", "Fitment Warning": "May not fit base model wheels. Will be 1/2" to 1" lower than stock at max ride height adjustment."}
+{"Part-Number": "C-132-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 3k", "Fitment": "12-UP Toyota Yaris ia", "Fitment Warning": ""}
+{"Part-Number": "C-86-BR","Spring-Rates": "","Fitment": "","Fitment Warning": ""}
+{"Part-Number": "E-33-BR", "Spring-Rates": "7K Front 7K Rear", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "","Spring-Rates": "6K Front, 6K Rear","Fitment": "15+ Subaru Legacy","Fitment Warning": ""}
+{"Part-Number": "S-14-BR","Spring-Rates": "12K/12K","Fitment": "12-18 Audi A6 awd / fwd","Fitment Warning": ""}
+{"Part-Number": "A-72-BR", "Spring-Rates": "4k Front, 3k Rear", "Fitment": "1988-1991 Honda Civic/CRX", "Fitment Warning": ""}
+{"Part-Number": "I-73-BR", "Spring-Rates": "12K Front, 4.5K Rear", "Fitment": "09-15 BMW 7 Series F01 w/o OEM Air Ride", "Fitment Warning": ""}
+{"Part-Number": "A-115-BR","Spring-Rates": {"Front": "6K","Rear": "5K"},"Fitment": "Civic Hatchback Sport","Fitment Warning": "Will not fit Civic SI"}
+{"Part-Number": "I-86-BR", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 5k", "Fitment": "525xi, 528xi, 530xi, and 535xi", "Fitment Warning": ""}
+{"Part-Number": "I-25-BR", "Spring-Rates": {"Front": "6 kg", "Rear": "6 kg"}, "Fitment": {"Front": "Standard", "Rear": "Not available"}, "Fitment Warning": ""}
+{"Part-Number": "V-22-BR", "Spring-Rates": "10K Front, 5K Rear", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "R-22-BR", "Spring-Rates": "12k/10k", "Fitment": "14-16 Lexus IS RWD", "Fitment Warning": "Some cars have Fork style lower mounts."}
+{"Part-Number": "A-73-BR","Spring-Rates": "10k Front, 5k Rear","Fitment": "02-06 Honda CRV","Fitment Warning": ""}
+{"Part-Number": "H-32-BR","Spring-Rates": "7K Front, 6K Rear","Fitment": "10-17 VW JETTA S Mk6 50mm front shock","Fitment Warning": "50mm Front Lower Mounts. Please measure your strut tube where it goes into the steering knuckle to confirm it is 50mm. You will be responsible for all shipping costs if your order the wrong lower mount size and we have to exchange lower mounts. *** NOT ALL JETTA S ARE 50mm STRUTS MEASURE. YOU WILL HAVE TO BUY NEW 55mm LOWER MOUNTS AND PAY SHIPPING IF YOU ORDER THE WRONG STRUT MOUNT SIZE *** Also please let us know if you have a IRS or Twist beam rear end in the special instructions box after clicking add to cart."}
+{"Part-Number": "D-18-BR", "Spring-Rates": "8k, 6k", "Fitment": "Nissan Skyline R34 GTS", "Fitment Warning": "Custom spring rates are available. You can request custom spring rates by entering the rates you want in the special instructions box after clicking add to cart.Spring rates up to 18K are available in BC Springs. Rates higher then 18K will require Swift spring upgrade."}
+{"Part-Number": "C-16-BR", "Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 3k", "Fitment": "06-11 Toyota Yaris", "Fitment Warning": ""}
+{"Part-Number": "N-05-BR", "Spring-Rates": "Front: 6k, Rear: 8k", "Fitment": "AWD and 2WD models", "Fitment Warning": ""}
+{"Part-Number": "J-16-BR", "Spring-Rates":", "7k = Front, 11k = Rear", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "D-27-BR", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 6k", "Fitment": "Nissan Silvia S15", "Fitment Warning": "None"}
+{"Part-Number": "C-06-BR","Spring-Rates": {"Front": "7k","Rear": "3k"},"Fitment": {"Make": "Lexus","Model": "ES300 MCV20","Year": "97-01"},"Fitment Warning": ""}
+{"Part-Number": "A-23-BR","Spring-Rates": "10k Front, 5k Rear","Fitment": "07-11 Honda CRV","Fitment Warning": ""}
+{"Part-Number": "J-03-BR", "Spring-Rates": "6k, 11k", "Fitment": "", "Fitment Warning": "damping extenders do not work with this kit."}
+{"Part-Number": "Z-04-BR-MG", "Spring-Rates": "14K Front, 14K Rear", "Fitment": "06-10 Dodge Magnum", "Fitment Warning": ""}
+{Part-Number: R-29-BRSpring-Rates: Front - 10k, Rear - 12kFitment: Custom fit for various carsFitment Warning:
+{"Part-Number": "H-11-BR", "Spring-Rates": "10K Front, 6K Rear", "Fitment": "10-17 VW JETTA SE, SEL, TDI Mk6", "Fitment Warning": "This kit has a 55mm Front lower mount. Please measure your car and check the Diameter of your strut tube where it goes into the steering knuckle. You will be charged the cost of shipping both ways if we have to swap out mounts after delivery. Please note in the comment box after clicking add to cart if you need a 50mm front shock."}
+{"Part-Number": "D-72-BR", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 6k", "Fitment": "R34 GTS", "Fitment Warning": "Images used may be generic. Actual product may vary. "}
+{"Part-Number": "D-72-BR",	"Spring-Rates": "Front Spring Rate: 6k, Rear Spring Rate: 4k",	"Fitment": "Pulsar GTiR",	"Fitment Warning": ""}
+{"Part-Number": "V-13-BR","Spring-Rates": "12k Front, 8K Rear","Fitment": "08-13 Infiniti EX35 AWD","Fitment Warning": ""}
+{"Part-Number": "A-123-BR", "Spring-Rates": "Front Springs:6K , Rear Springs: 7K", "Fitment": "16+ Acura ILX", "Fitment Warning": ""}
+{"Part-Number": "C-37-BR",	"Spring-Rates": "Front Spring Rate = 6kRear Spring Rate = 4k",	"Fitment": "83-87 Toyota Corolla AE82",	"Fitment Warning": "AE82 Coilovers are not stocked in North America and are built to order by the BC factory. Lead time from order to shipping is 2-4 weeks."}
+{"Part-Number": "C-33-BR", "Spring-Rates": "5K Front , 8K Rear", "Fitment": "94-99 Toyota Celica Super Strut", "Fitment Warning": ""}
+{"Part-Number": "J-24-BR","Spring-Rates": "Front Spring Rate = 18k Rear Spring Rate = 16k","Fitment": "SL500 cars with ABC Suspension","Fitment Warning": "Requires ML55 AMG PS pump and res. plus custom front and rear sway bars"}
+{"Part-Number": "C-26-BR", "Spring-Rates": "8K Front , 5K Rear", "Fitment": "94-99 Toyota Celica ST205   NON US MARKET CARS ONLY", "Fitment Warning": ""}
+{"Part-Number": "B-11-BR","Spring-Rates": "7k (Front), 6k (Rear)","Fitment": "CE9A/CD9A","Fitment Warning": "N/A"}
+{"Part-Number": "V-14-BR", "Spring-Rates": "12k Front, 8K Rear","Fitment": "08-13 Infiniti EX35 RWD","Fitment Warning": ""}`
+{"Part-Number": "C-68-BR","Spring-Rates": "","Fitment": "99-03 Toyota Solara","Fitment Warning": ""}
+{"Part-Number": "C-154-BR","Spring-Rates": "7k (front), 6k (rear)","Fitment": "2018 Toyota Camry XSE / SE","Fitment Warning": "Does not fit LE or XLE"}
+{"Part-Number": "B-36-BR","Spring-Rates": "7K Front, 8K Rear","Fitment": "14-17 Mitsubishi Outlander AWD","Fitment Warning": "Will not fit Outlander Sport"}
+{"Part-Number": "F-01-BR", "Spring-Rates": "12K Front Springs , 7K Rear Springs", "Fitment": "14-20 Acura RLX", "Fitment Warning": ""}
+{"Part-Number": "N-37-BR", "Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 8K", "Fitment": "Standard Kit - 2-3\" max drop from stock height", "Fitment Warning": ""}
+{"Part-Number": "J-17-BR", "Spring-Rates": "12k front, 15k rear", "Fitment": "Street driving with a dash of weekend warrior track action", "Fitment Warning": ""}
+{"Part-Number": "M-23-BR", "Spring-Rates": "Front Spring Rate = 10k Rear Spring Rate = 12k", "Fitment": "15-16 Hyundai Genesis Sedan RWD", "Fitment Warning": "RWD ONLY"}
+{"Part-Number": "PA-01-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 12k", "Fitment": "14-19 BMW 4 SERIES F32 AWD", "Fitment Warning": "BE SURE YOU CHECK YOUR STRUT TOWER FOR BOLT PATTERN. 3 or 5 bolt option is selectable - please confirm on your car."}
+{"Part-Number": "I-61-BR","Spring-Rates": "Front- 6k, Rear- 12k","Fitment": "14-18 BMW 4 SERIES F32","Fitment Warning": "I-61-BR is a 3 bolt top hat only. If you have a 5 bolt top hat please note that in the special instructions after clicking add to cart, we will make sure your kit is built with 5 bolt strut mounts."}
+{"Part-Number": "C-139-BR","Spring-Rates": "8K Front, 6K Rear","Fitment": "2015-2018 Toyota Prius ZVW50 ZVW51","Fitment Warning": ""}
+{"Part-Number": "I-45-BR", "Spring-Rates": "Front Spring Rate = 12k, Rear Spring Rate = 4.5k", "Fitment": "For BMW 640i", "Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "C-152-BR","Spring-Rates": "Front: 7k, Rear: 6k","Fitment": "2018 Toyota Camry Hybrid","Fitment Warning": "Will not fit XSE/SE Hybrid"s"}
+{"Part-Number": "A-135-BR", "Spring-Rates": "6k/6k", "Fitment": "2018+ Honda Accord", "Fitment Warning": ""}
+{"Part-Number": "A-134-BR", "Spring-Rates": "Front = 6 kg, Rear = 5 kg", "Fitment": "Civic SI", "Fitment Warning": "FITS only Civic SI" }
+{"Part-Number": "Z-11-BR", "Spring-Rates": "12k Front , 14k Rear", "Fitment": "2011- Charger Scat Pack , Hellcat", "Fitment Warning": "Active damper cars will require a electronic by pass module or ecu flash to turn off trouble lights. "}
+{"Part-Number": "S-20-BR","Spring-Rates": "14K Front, 6K Rear","Fitment": "2009-2016 Audi Q5","Fitment Warning": ""}
+{"Part-Number": "C-42-BR","Spring-Rates": "4K Front, 3.8K Rear","Fitment": "10-15 Toyota Prius","Fitment Warning": ""}
+{"Part-Number": "C-07-BR", "Spring-Rates": "", "Fitment": "92-00 TOYOTA Chaser Jzx100/90", "Fitment Warning": ""}
+{"Part-Number": "E-23-BR","Spring-Rates": "6K Front, 6K Rear","Fitment": "18+ Mitsubishi Eclipse Cross","Fitment Warning": ""}
+{"Part-Number": "Z-05-BR","Spring-Rates": "12k Front, 14k Rear","Fitment": "2011-2022 Dodge Challenger RWD","Fitment Warning": "NON SCAT PACK, NON HELLCAT"}
+{"Part-Number": "I-43-BR", "Spring-Rates": {"Front-Rate": "7k","Rear-Rate": "5k" }, "Fitment": {"Front": "51mm Strut Diameter","Rear": "" }, "Fitment Warning": ""}
+{"Part-Number": "R-28-BR", "Spring-Rates": "Front: 6k, Rear: 8K (V barrel spring)", "Fitment": "15+ Lexus NX200T / 300H FWD", "Fitment Warning": ""}
+{"Part-Number": "C-21-BR", "Spring-Rates": "8K Front , 4K Rear", "Fitment": "90-93 Toyota Celica AWD, Alltrac ST185", "Fitment Warning": "" }
+{"Part-Number": "C-20-BR", "Spring-Rates": {"Front": "6k", "Rear": "5k"}, "Fitment": {"Make": "Lexus", "Model": "RX330/350", "Year-Range": "2004-2009", "Drivetrain": "FWD", "Platform": "XU30"}, "Fitment Warning": "None"}
+{"Part-Number": "N-38-BR","Spring-Rates": "5k front and 3.5k rear","Fitment": "78-85 Mazda FB RX7","Fitment Warning": "This kit is weld on due to the design of the factory suspension"}
+{"Part-Number": "L-06-BR","Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 4k","Fitment": "05-12 Suzuki Swift Sport","Fitment Warning": "Custom spring rates, extreme low kits, swift springs, and custom rates have a lead time of 2-3 weeks before shipping."}
+{"Part-Number": "J-31-BR", "Spring-Rates": "16k front, 17k rear", "Fitment": "03-09 Mercedes Benz E-Class Wagon AWD W211K", "Fitment Warning": "Airmatic cars will require lower control arms from a non Airmatic car to work."}
+{"Part-Number": "C-161-BR","Spring-Rates": {"Front Spring Rate": "6k","Rear Spring Rate": "4.5k"},"Fitment": "19+ Toyota Corolla Hatchback E210","Fitment Warning": ""}
+{"Part-Number": "BC-07-BR","Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 7k","Fitment": "12-16 MAZDA 5","Fitment Warning": ""}
+{"Part-Number": "S-22-BR",	"Spring-Rates": "7K Front, 6K Rear",	"Fitment": "15+ Audi Q3",	"Fitment Warning": ""}
+{"Part-Number": "A-99-BR","Spring-Rates": "5k Front, 3.5k Rear","Fitment": "16-18 Honda HRV AWD","Fitment Warning": ""}
+{"Part-Number": "Z-04-BR","Spring-Rates": "14K Front, 14K Rear.","Fitment": "05-2019 Dodge Charger AWD","Fitment Warning": ""}
+{"Part-Number": "A-121-BR","Spring-Rates": "Front Spring Rate = 7k, Rear Spring Rate = 6k","Fitment": "15-18 Acura TLX (Included SH-AWD Model)","Fitment Warning": ""}
+{"Part-Number": "I-83-BR", "Spring-Rates": "front = 7 kg / 448 lbs, rear = 12 kg / 672 lbs", "Fitment": "BMW 2 Series Non M F22", "Fitment Warning": "Notes: 5 Bolt Front Top Mounts"}
+{"Part-Number": "V-23-BR","Spring-Rates": "12K Front, 12K Rear","Fitment": "13+ Infiniti QX70","Fitment Warning": "Custom spring rates, extreme low kits, swift springs, and custom rates have lead time of 2-3 weeks before shipping."}
+{"Part-Number": "H-17-BR", "Spring-Rates": "18K Front, 10K Rear", "Fitment": "04-10 Volkswagen Touareg 7L", "Fitment Warning": ""}
+{"Part-Number": "H-42-BR", "Spring-Rates": "18K Front , 10K Rear", "Fitment": "04-10 Volkswagen Touareg 7L (W/Air to Coil conversion)", "Fitment Warning": ""}
+{"Part-Number": "C-144-BR", "Spring-Rates": {"Front Spring Rate": "6k", "Rear Spring Rate": "6k"}, "Fitment": "17-UP Toyota Corolla IM", "Fitment Warning": ""}
+{"Part-Number": "M-28-BR", "Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 5k", "Fitment": "", "Fitment Warning":""}
+{"Part-Number": "N-32-BR", "Spring-Rates": "5k (front)/ 4k (rear)", "Fitment": "2-3\" max drop from stock height", "Fitment Warning": "Extreme Low - 3.5-5\" Max Drop from stock height"}
+{"Part-Number": "C-120-BR","Spring-Rates": "5K Front, 3K Rear","Fitment": "2011-2018 Toyota Prius C","Fitment Warning": ""}
+{"Part-Number": "E-07-BR", "Spring-Rates": "6k/4k", "Fitment": "90-94 MAZDA PROTÉGÉ ", "Fitment Warning": ""}
+{"Part-Number": "M-31-BR","Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 5k","Fitment": "Hyundai Elantra Sport GT","Fitment Warning": "This set of coilovers is not currently stocked in North America. Orders will be built and shipped directly from BC Racings factory overseas. The lead time is 2-4 weeks."}]
+{"Part-Number": "N-24-BR", "Spring-Rates": "Front: 6k, Rear: 6k", "Fitment": "Standard Kit - 2-3\" max drop from stock height", "Fitment Warning": ""}
+{"Part-Number": "A-57-BR","Spring-Rates": "(F) 5K (R) 3K-V","Fitment": "(SL/SS/SR/ST/VC/WD) Chassis","Fitment Warning": ""}
+{"Part-Number": "C-22-BR", "Spring-Rates": "5K Front , 8K Rear", "Fitment": "94-99 Toyota Celica ST204", "Fitment Warning": ""}
+{"Part-Number": "R-36-BR","Spring-Rates": "Front Spring Rate = 10k Rear Spring Rate = 9k","Fitment": "IS300 / IS200T / IS350 / IS250 RWD Front Fork Lower Mount RWD","Fitment Warning": "Fork style front lower mount RWD only"}
+{"Part-Number": "J-18-BR", "Spring-Rates": "Front: 6k, Rear: 15k", "Fitment": "RWD", "Fitment Warning": "Will not fit Airmatic cars"}
+{"Part-Number": "R-31-BR","Spring-Rates": {"Front Spring Rate": "7k","Rear Spring Rate": "7k"},"Fitment": "BR Series Coilovers for Lexus RX350","Fitment Warning": "Custom spring rates are available. Extreme low kits, swift springs, and custom rates have a lead time of 2-3 weeks before shipping."}
+{"Part-Number": "TH-N1006",	"Spring-Rates": "",	"Fitment": "03-08 Nissan 350z",	"Fitment Warning": ""}
+{"Part-Number": "Q-18-BR", "Spring-Rates": "5k/3k-S or custom if requested", "Fitment": "16+ Chevy Spark", "Fitment Warning": "The rear spring rates can not be changed due to the spring design and shape."}
+{"Part-Number": "ZG-04-BR", "Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 4k", "Fitment": "98-00 Volvo S70", "Fitment Warning": ""}
+{"Part-Number": "F-06-BR","Spring-Rates": {"Front Spring Rate": "10k","Rear Spring Rate": "8k","Extreme Drop Front Spring Rate": "8k","Extreme Drop Rear Spring Rate": "8k"},"Fitment": "03-06 Subaru Baja","Fitment Warning": ""}
+{"Part-Number": "J-20-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 7k", "Fitment": "FWD and 4matic", "Fitment Warning": "will work for FWD and 4matic"}
+{"Part-Number": "", "Spring-Rates": "8K Front, 6K Rear", "Fitment": "AE86 Corolla with front lower mounts for S14 240sx", "Fitment Warning": ""}
+{"Part-Number": "A-72-BR","Spring-Rates": "(F) 4K (R) 3K-V","Fitment": "AG/AH/AJ/AK/AT/AU","Fitment Warning": ""}
+{"Part-Number": "M-32-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 5k", "Fitment": "Street driving and occasional road course duty", "Fitment Warning": "Will not fit the N Model Veloster."}
+{"Part-Number": "I-84-BR", "Spring-Rates": "6k / 12k", "Fitment": "14-18 BMW 4 SERIES F32 RWD", "Fitment Warning": "I-84-BR is a 5 bolt top hat only. If you have a 3 bolt top hat please note that in the special instructions after clicking add to cart, we will make sure your kit is built with 3 bolt strut mounts."}
+{"Part-Number": "J-30-BR","Spring-Rates": {"Front Spring Rate" : "12k", "Rear Spring Rate" : "15k"},"Fitment": "15+ Mercedes-Benz C Class AWD W205","Fitment Warning": ""}
+{"Part-Number": "ZG-11-BR","Spring-Rates": "Front Spring Rate = 5k, Rear Spring Rate = 10k","Fitment": ""Volvo S60 AWD or FWD", Y3 Chassis","Fitment Warning": ""Images used may be generic. Actual product may vary.""}
+{"Part-Number": "I-93-BR", "Spring-Rates": "12K Front,4.5K Rear", "Fitment": "09-15 BMW 7 Series F01 w/ OEM Air Ride", "Fitment Warning": ""}
+{"Part-Number": "D-16-BR", "Spring-Rates": "Front Spring Rate = 8k, Rear Spring Rate = 6k", "Fitment": "95-98 Nissan R33 Skyline GTS-T", "Fitment Warning": ""}
+{"Part-Number": "E-11-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 8.5k", "Fitment": "IRS REAR Cobra fitment only.", "Fitment Warning": "Note: 99-04 Ford Mustang Cobra IRS cars only"}
+{"Part-Number": "I-48-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 5k", "Fitment": "77-83 BMW 3 SERIES E21 45mm Front Strut", "Fitment Warning": ""}
+{"Part-Number": "C-01-BR", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 4k", "Fitment": "91-99 Toyota Starlet / Tercel EP82, EP91", "Fitment Warning": ""}
+{"Part-Number": "V-16-BR","Spring-Rates": "Front 12K, Rear 8K","Fitment": "11-12 Infiniti M56x AWD","Fitment Warning": ""}
+{"Part-Number": "C-161-BR", "Spring-Rates": { "Front-Spring-Rate": "6k", "Rear-Spring-Rate": "4.5k" }, "Fitment": "19+ Toyota Corolla E210", "Fitment Warning": "" }
+{"Part-Number": "D-121-BR", "Spring-Rates": {"Front": "10k", "Rear": "5k"}, "Fitment": "09-2018 Nissan 370Z , Z34 Chassis.", "Fitment Warning": {"True Rear": "Deletes the need for the spring bucket arm"}}
+{"Part-Number": "D-122-BR","Spring-Rates": "Front = 8 K, Rear = 6 K","Fitment": "18+ Nissan Leaf PLUS FWD","Fitment Warning": ""}
+{"Part-Number": "Z-08-BR","Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 4k","Fitment": "11-14 Chrysler 200","Fitment Warning": ""}
+{"Part-Number": "ZG-15-BR","Spring-Rates": "Front Spring Rate = 5k Rear Spring Rate = 12k","Fitment": "AWD Volvo S60 / S70","Fitment Warning": ""}
+{"Part-Number": "C-165-BR", "Spring-Rates": "Front Spring Rate = 5k Rear Spring Rate = 11k", "Fitment": "2020 Toyota Supra Mk5 A90", "Fitment Warning": ""}
+{"Part-Number": "YG-01-BR","Spring-Rates": {"Front Spring Rate": "16k","Rear Spring Rate": "6k"},"Fitment": "14-19 Tesla Model S AWD","Fitment Warning": ""}
+{"Part-Number": "V-28-BR", "Spring-Rates": "Front: 12k Rear: 5k", "Fitment": "08-13 Infiniti G37 RWD", "Fitment Warning": "Rear damping adjustment requires the included extenders to work on the G37. The extenders will require drilling a small hole on the inside of the rear strut towers to pass the damping extension cable through to the top of the strut. The OEM style coilover kits for the G37 do not require this due to an updated design that has the damping knob on the side of the strut shaft."}
+{"Part-Number": "D-08-BR", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 6k", "Fitment": "R33 GTR", "Fitment Warning": ""}
+{"Part-Number": "D-26-BR", "Spring-Rates": "Front = 8 K, Rear = 6 K", "Fitment": "93-01 Nissan Altima", "Fitment Warning": ""}
+{"Part-Number": "C-152-BR", "Spring-Rates": "7K Front, 6K Rear", "Fitment": "2018 Toyota Camry NON SE or XSE", "Fitment Warning": "Does not fit SE or XSE"}
+{"Part-Number": "C-133-BR","Spring-Rates": "","Fitment": "FWD only","Fitment Warning": ""}
+{"Part-Number": "D-106-BR","Spring-Rates": {"Front": 5,"Rear": 4.5},"Fitment": "12+ Nissan Versa Sedan FWD","Fitment Warning": ""}
+{"Part-Number": "I-49-BR", "Spring-Rates": "Front = 7 kg Rear = 14 kg", "Fitment": "BMW M3 F80 (Sedan) 2014, BMW M4 F82 (Coupe) 2014", "Fitment Warning": "NOTE: 3 bolt front stop strut mount only."}
+{"Part-Number": "I-68-BR","Spring-Rates": "Front - 7kg, Rear - 14kg","Fitment": {"Make": "BMW","Model": "M3/M4","Trim": "F80/F82","Year": "2015-2017"},"Fitment Warning": "5 bolt front upper strut mount, please confirm your vehicles strut mounts before ordering"}`
+{"Part-Number": "I-24-BR","Spring-Rates": "8k","Fitment": "87-91 BMW E30 M3","Fitment Warning": "Front strut diameter of 51mm commonly found in the 88-92 3 series with the 6 cylinder engine. Custom spring rates and lead time required for certain options."}
+{"Part-Number": "R-08-BR",	"Spring-Rates": "Front: 10k; Rear: 8k",	"Fitment": "06-12 Lexus GS350 (AWD)",	"Fitment Warning": "N/A"}
+{"Part-Number": "YG-03-BR", "Spring-Rates": {"Front Spring Rate": "16k","Rear Spring Rate": "6k"}, "Fitment": "", "Fitment Warning":"Custom spring rates are available. You can request custom spring rates by entering the rates you want in the special instructions box after clicking add to cart. Spring rates up to 18K are available in BC Springs. Rates higher than 18K will require Swift spring upgrade. All extreme low kits, swift springs, and custom rates are considered custom builds and will have a lead time of 2-3 weeks before shipping."}
+{"Part-Number": "YG-02-BR","Spring-Rates": "Front Spring Rate = 12k, Rear Spring Rate = 11k","Fitment": "17-UP Tesla Model 3 AWD","Fitment Warning": ""}
+{"Part-Number": "ZB-05-BR","Spring-Rates": "Front Spring Rate=5k, Rear Spring Rate=6k","Fitment": "1997-2008 Pontiac Grand Prix, 1997-2004 Buick Regal, 2000-2007 Chevy Monte Carlo, 2000-2013 Chevy Impala older body styles, 1997-2005 Buick Century, 1998-2002 Olds Intrigue, 2005-2009 Buick LaCrosse/Allure","Fitment Warning": "Sway bar end-link mounts are only used on 2004-2006 Grand Prix. Can leave them off for all other W-body models. We recommend 8k or 10k springs for V8 cars. 8k and 10k springs will be built to order with a 3 week lead time."}
+{"Part-Number": "F-02-BR", "Spring-Rates": "Front: 448lbs/in, Rear: 336lbs/in", "Fitment": "WRX and STi owners", "Fitment Warning": ""}
+{"Part-Number": "H-02-BR", "Spring-Rates": "Front Spring Rate = 8k Rear Spring Rate = 5k", "Fitment": "99.5-05 VW Jetta Mk4", "Fitment Warning": ""}
+{"Part-Number": "S-07-BR","Spring-Rates": "12K Front, 5K Rear","Fitment": "08-17 Audi A4/S4","Fitment Warning": ""}
+{"Part-Number": "D-32-BR", "Spring-Rates": {"Front Spring Rate": "8k", "Rear Spring Rate": "6k"}, "Fitment": "96-01 Nissan STAGEA AWD (REAR FORK)", "Fitment Warning": "This kit is not stocked in North America and it built to order. 3-4 week lead time."}
+{"Part-Number": "ZG-13-BR","Spring-Rates": {"Front Spring Rate": "8k","Rear Spring Rate": "10k"},"Fitment": "08-14 Volvo XC60 AWD","Fitment Warning": "This part number is not stocked in North America and has a 3-4 week lead time to be built and shipped from BC"s factory."}
+{"Part-Number": "V-08-BR", "Spring-Rates": "12K Front, 8K Rear", "Fitment": "14-15 Infiniti Q60 V36 AWD", "Fitment Warning": ""}
+{"Part-Number": "S-29-BR", "Spring-Rates": "10K Front, 7K Rear", "Fitment": "16-UP Audi A5 F5 chassis", "Fitment Warning": "This kit is for a 48.5mm Front struts."}
+{"Part-Number": "S-27-BR",	"Spring-Rates": "10K Front, 7K Rear",	"Fitment": "16-UP Audi A4/S4",	"Fitment Warning": "This kit is for a 53mm Front strut. If you have a 48.5mm use S-28-BR."}
+{"Part-Number": "S-28-BR", "Spring-Rates": "10K Front, 7K Rear ", "Fitment": "16-UP Audi A4/S4", "Fitment Warning": "This kit is for a 48.5mm Front strut. If you have a 53mm use S-27-BR"}
+{"Part-Number": "S-26-BR", "Spring-Rates": "10K Front, 7K Rear", "Fitment": "16-UP Audi A5 F5 chassis", "Fitment Warning": "Fits 53mm Front struts"}
+{"Part-Number": "C-35-BR", "Spring-Rates": "8K Front , 4K Rear", "Fitment": "90-93 Toyota Celica", "Fitment Warning": ""}
+{"Part-Number": "E-17-BR",	"Spring-Rates": {		"Front": "6k",		"Rear": "14k"	},	"Fitment": "09-12 Ford Flex BC Racing Coilovers - BR Type",	"Fitment Warning": ""}
+{"Part-Number": "D-128-BR", "Spring-Rates": "Front Spring Rate = 7k Rear Spring Rate = 5k", "Fitment": "FWD only", "Fitment Warning": "Fits FWD only due to rear spring design"}
+{"Part-Number": "I-65-BR","Spring-Rates": "Front: 7 kg, Rear: 14 kg","Fitment": "F83 BMW M4 Cabrio","Fitment Warning": "3 bolt front upper strut mount, please confirm your vehicles strut mounts before ordering"}
+{"Part-Number": "C-173-BR", "Spring-Rates": "", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "ZN-04-BR", "Spring-Rates": "8k/6k", "Fitment": "14-19 Cadillac CTS RWD", "Fitment Warning": ""}
+{"Part-Number": "D-57-BR", "Spring-Rates": "Custom spring rates up to 18K available in BC Springs", "Fitment": "96-01 Nissan Cedric / Gloria w/Spindle Y33", "Fitment Warning": ""}
+{"Part-Number": "ZN-04-BR","Spring-Rates": "8k/6k","Fitment": "20-UP Cadillac CT4 RWD","Fitment Warning": ""}
+{"Part-Number": "B-19-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 4k", "Fitment": "Sport version of Outlander", "Fitment Warning": "Fits only sport version of Outlander. Images used may be generic."}
+{"Part-Number": "A-124-BR", "Spring-Rates": "6k Front, 6k Rear", "Fitment": "17-18 Honda CRV", "Fitment Warning": ""}
+{"Part-Number": "D-132-BR", "Spring-Rates": "Front = 6 K, Rear = 5 K", "Fitment": "20+ Nissan Sentra Multi Link", "Fitment Warning": ""}
+{"Part-Number": "I-96-BR", "Spring-Rates": "Front = 6K, Rear = 11K", "Fitment": "BMW G20 3 series", "Fitment Warning": ""}
+{"Part-Number": "I-91-BR", "Spring-Rates": "Front = 4K, Rear = 4K", "Fitment": "Reuse Oem Front mounts.", "Fitment Warning": ""}
+{"Part-Number": "A-146-BR","Spring-Rates": {"Front": "12k", "Rear": "67.5k"},"Fitment": "21+ Acura TLX","Fitment Warning": ""}
+{"Part-Number": "Y-18-BR","Spring-Rates": "4k(front), 6k(rear)","Fitment": "","Fitment Warning": ""}
+{"Part-Number": "M-24-BR","Spring-Rates": {"Front Spring Rate": "6k","Rear Spring Rate": "5k"},"Fitment": "16-20 Kia Optima","Fitment Warning": ""}
+{"Part-Number": "I-56-BR", "Spring-Rates": "Front 8K, Rear 8K", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "V-18-BR","Spring-Rates": "10K Front, 8K Rear","Fitment": "17+ Infiniti Q60 V37 -- RWD only","Fitment Warning": "RWD Eyelet Front Lower Mount (Excludes 2.0t)"}
+{"Part-Number": "A-02-BR", "Spring-Rates": "10K Front, 6K Rear", "Fitment": "94-01 Acura Integra USDM only - (Rear Fork)", "Fitment Warning": ""}
+{"Part-Number": "F-29-BR",	"Spring-Rates": "6K Front, 6K Rear",	"Fitment": "15-19 Subaru Outback",	"Fitment Warning": ""}
+{"Part-Number": "H-10-BR", "Spring-Rates": "7k/6k", "Fitment": "Golf TSI cars", "Fitment Warning": "This kit has 50mm front shocks. Measure your cars front shock diameter before ordering. Orders placed with out measurements and needing to be returned will be responsible for all costs associated with the return. This includes purchasing new front lower mounts if you attempt to install the kit and find you did not order correctly."}
+{"Part-Number": "F-32-BR","Spring-Rates": {"Front Spring Rate": "5k","Rear Spring Rate": "6k"},"Fitment": "18+ Subaru Crosstrek","Fitment Warning": ""}
+{"Part-Number": "D-133-BR", "Spring-Rates": "Front = 6 K, Rear = 5 K", "Fitment": "2020 Nissan Sentra TORSION BEAM  Rear suspension", "Fitment Warning": ""}
+{"Part-Number": "YG-04-BR", "Spring-Rates": "{Front Spring Rate = 14k Rear Spring Rate = 6k}", "Fitment": "", "Fitment Warning": ""}
+{"Part-Number": "I-74-BR", "Spring-Rates": "Front Spring Rate = 14k Rear Spring Rate = 12k", "Fitment": "14-18 BMW X5", "Fitment Warning": "Note: AIR TO COIL REQUIRES REAR UPPER SPRING PAD BMW PN: 33536857006"}
+{"Part-Number": "Y-08-BR", "Spring-Rates": "Front Spring Rate = 18k, Rear Spring Rate = 12k", "Fitment": "11-18 Porsche Cayenne AWD", "Fitment Warning": ""}
+{"Part-Number": "A-50-BR", "Spring-Rates": "4k Front, 3k Rear", "Fitment": "73-79 Honda Civic (Excl Wagon/78-79 CVCC)", "Fitment Warning": ""}
+{"Part-Number": "F-20-BR", "Spring-Rates": "8k/8k", "Fitment": "17-UP Toyota 86", "Fitment Warning": ""}
+{"Part-Number": "A-26-BR","Spring-Rates": "10K Front, 6K Rear","Fitment": "10-15 Honda Accord Crosstour","Fitment Warning": ""}
+{"Part-Number": "H-36-BR", "Spring-Rates": "8k/6k", "Fitment": "18-22 Tiguan 2WD/AWD", "Fitment Warning": ""}
+{"Part-Number": "V-10-BR", "Spring-Rates": "12K Front, 12K Rear", "Fitment": "09+ Infiniti FX50 AWD S51 without CDC 44mm lower mounts", "Fitment Warning": "Does not fit vehicles with CDC suspension. Check your shocks for electrical connectors and solenoids. CDC shocks will have them."}
+{"Part-Number": "D-28-BR","Spring-Rates": {"Front": "7k","Rear": "7k"},"Fitment": "","Fitment Warning": "NEEDS V-BARREL REAR VERSION, CUSTOM ORDER"}
+{"Part-Number": "S-15-BR","Spring-Rates": "14K Front, 12K Rear","Fitment": "08-15 Audi R8","Fitment Warning": "Removing factory suspensions can sometimes result in a service light on the dash. The KW Electronic suspension by module to bypass the factory system can be used to remove this fault and trouble light."}
+{"Part-Number": "C-54-BR", "Spring-Rates": "Front Spring Rate = 7k, Rear Spring Rate = 6k", "Fitment": "06-12 Toyota Rav4 AWD or FWD", "Fitment Warning": ""}
+{"Part-Number": "D-28-BR","Spring-Rates": {"Front Spring Rate": "7k","Rear Spring Rate": "7k"},"Fitment": "13-18 Nissan Altima","Fitment Warning": "V-BARREL REAR VERSION, CUSTOM ORDER 3-6 week lead time."}
+{"Part-Number": "M-33-BR","Spring-Rates": {"Front Spring Rate": "6k","Rear Spring Rate": "5k"},"Fitment": "18+ Kia Kona","Fitment Warning": ""}
+{"Part-Number": "M-27-BR-GS", "Spring-Rates": "Front Spring Rate = 6k Rear Spring Rate = 4k", "Fitment": "Hyundai Elantra", "Fitment Warning": "Excludes GT &amp; Sport models"}
+{"Part-Number": "S-13-BR-GS","Spring-Rates": "7K/6K","Fitment": "Fits the 07+ Audi TT (AWD/FWD)","Fitment Warning": "Open box return. Missing outer box. There may be some minor scratches and scuffs that will not affect function of kit. Kit does not carry a manufacturers warranty because selling below MAP is against BC"s policy. All sales final on Garage Sale items."}
+{"Part-Number": "Y-19-BR","Spring-Rates": {"Front Spring Rate": "5k","Rear Spring Rate": "8k"},"Fitment": {"Year": "2005-2008","Make": "Porsche","Model": "911 Carrera","Engine": "AWD 997.1"},"Fitment Warning": ""}
+{"Part-Number": "C-180-BR", "Spring-Rates": "Front: 6k, Rear: 3k", "Fitment": "21+ Toyota Sienna AWD", "Fitment Warning": ""}
+{"Part-Number": "N-41-BR", "Spring-Rates": {"Front Spring Rate": "8k", "Rear Spring Rate": "5k"}, "Fitment": "19+ MAZDA 3", "Fitment Warning": ""}
+{"Part-Number": "I-103-BR", "Spring-Rates": "Front = 7K, Rear = 14K", "Fitment": "20+ BMW M3/M4 G80 RWD", "Fitment Warning": ""}
+{"Part-Number": "E-46-BR", "Spring-Rates": "8k, 7k", "Fitment": "79-89 Cars", "Fitment Warning": ""}
+{"Part-Number": "M-30-BR",	"Spring-Rates": {		"Front Spring Rate": "6k",		"Rear Spring Rate": "7k"	},	"Fitment": {		"Make": "Hyundai",		"Model": "Tucson",		"Type": "FWD",		"Year Range": "2016-2021"	},	"Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "M-16-BR","Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 7k","Fitment": "10-15 Hyundai Tucson FWD","Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "M-25-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 5k", "Fitment": "10-15 Hyundai Tucson AWD", "Fitment Warning": ""}
+{"Part-Number": "M-17-BR","Spring-Rates": {"Front Spring Rate": 6,"Rear Spring Rate": 4.5},"Fitment": "05-09 Hyundai Tucson FWD","Fitment Warning": "Images used may be generic. Actual product may vary."}
+{"Part-Number": "M-35-BR","Spring-Rates": {"Front Spring Rate": "6k","Rear Spring Rate": "5k"},"Fitment": "20+ Hyundai Sonata","Fitment Warning": ""}
+{"Part-Number": "M-34-BR", "Spring-Rates": "Front Spring Rate = 6k, Rear Spring Rate = 5k", "Fitment": "19-21 Hyundai Veloster N", "Fitment Warning": "ONLY FITS N MODEL VELOSTER"}
