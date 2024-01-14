@@ -6,7 +6,7 @@ import re
 
 # Function to extract data using OpenAI
 def extract_data_with_openai(html_content):
-    openai.api_key = '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'
+    openai.api_key = 'API-Key'
 
     prompt = ("Please give me 'Part-Number', 'Spring-Rates', 'Fitment', and 'Fitment Warning' as only 1 level "
               "flat JSON data such as the below template from the above code. \n"
