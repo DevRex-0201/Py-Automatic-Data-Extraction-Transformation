@@ -4,6 +4,8 @@
 
 This tool is designed to automate the process of extracting specific data from HTML content stored in an Excel file and transforming it into a structured JSON format. It then processes these JSON objects to create and export a well-organized Excel file. This README document provides detailed instructions and explanations for setting up and using this tool.
 
+![Project Image Overview](https://github.com/DevRex-0201/Project-Images/blob/main/Py-Automatic-Data-Extraction-Transformation.png)
+
 ## Prerequisites
 
 Before using this tool, ensure you have the following prerequisites installed:
